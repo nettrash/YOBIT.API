@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="YOBIT.API.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="PublicAPIUrl" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://yobit.net/api/3/</Value>
+    </Setting>
+    <Setting Name="TradeAPIUrl" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://yobit.net/tapi</Value>
+    </Setting>
+    <Setting Name="GetOrderBookMethod" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">depth/</Value>
+    </Setting>
+    <Setting Name="TradeMethod" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Trade</Value>
+    </Setting>
+    <Setting Name="Key" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">64AB8844A6B9E13299F3A43F957D4AAC</Value>
+    </Setting>
+    <Setting Name="Secret" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">28e03d4efb2ae1d513b13b5c4719bc00</Value>
+    </Setting>
+    <Setting Name="GetTickerMethod" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ticker/</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
